@@ -1,0 +1,6 @@
+{
+  "name": "FinGuard - Budżet Domowy & JDG",
+  "description": "Zaawansowane zarządzanie budżetem domowym i B2B/JDG z analizą CSV, strażnikiem częstotliwości, prognozą i szyfrowaną synchronizacją Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
